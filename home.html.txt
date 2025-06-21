@@ -1,1 +1,1 @@
-<h1> home file 
+<H1>HOME</H1>
